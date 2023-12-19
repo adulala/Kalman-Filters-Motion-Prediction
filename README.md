@@ -1,3 +1,4 @@
+![Alt text](https://github.com/adulala/Kalman-Filters-Motion-Prediction/blob/main/track.gif)
 # Kalman-Filters-Motion-Prediction
 
 Kalman Filters are a powerful tool used in various fields for estimating the state of a dynamic system from a series of noisy measurements. They are particularly prominent in applications involving motion prediction, such as in robotics, autonomous vehicles, and aerospace engineering. Let's break down the concepts:
